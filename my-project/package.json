@@ -1,0 +1,19 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sindresorhus/slugify": "^2.2.1",
+    "directus": "^10.10.4",
+    "directus-extension-wpslug-interface": "^1.1.0",
+    "mysql": "^2.18.1",
+    "react-infinite-logo-slider": "^1.0.13"
+  }
+}
